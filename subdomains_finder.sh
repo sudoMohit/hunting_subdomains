@@ -1,6 +1,4 @@
 #!/bin/bash
-echo "First run sudo"
-echo "use sublist3r in another terminal"
 echo "Enter domain name"
 read domain
 sudo mkdir $domain
